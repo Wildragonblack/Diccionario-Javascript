@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title>IA</title>
+	<!-- Diccionario hecho por William Terrones -->
 </head>
 <body>
 <link rel="stylesheet" href="css/bootstrap-theme.min.css">

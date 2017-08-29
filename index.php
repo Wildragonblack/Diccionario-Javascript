@@ -2,7 +2,11 @@
 <html>
 <head>
 	<title>IA</title>
+<<<<<<< HEAD
 	<!-- Diccionario hecho por William Terrones -->
+=======
+	<!-- Autor: William Orlando Terrones Valencia -->
+>>>>>>> actualizamos el index.php
 </head>
 <body>
 <link rel="stylesheet" href="css/bootstrap-theme.min.css">
